@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+section{
+    border: 1px black;
+    display: inline-block;
+    justify-content: space-around;
+}
+
+.navlinks{
+    padding: 1vw;
+    color: black;
+    text-decoration: none;
+}
+
+#sitename{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+nav{
+    justify-content: space-evenly;
+    width: 100vw;
+    display: flex;
+    background-color: lightblue;
+}
+
+video{
+    height: 10vh;
+    width: 10vw;
+}
